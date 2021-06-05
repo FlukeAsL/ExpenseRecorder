@@ -5,7 +5,7 @@ from datetime import datetime
 import csv
 
 GUI = Tk()
-GUI.title('โปรแกรมคำนวนค่าใช้จ่าย By FlukeAsL')
+GUI.title('โปรแกรมคำนวนค่าใช้จ่าย v.1.1 By FlukeAsL')
 GUI.geometry('500x500+500+200')
 
 menubar = Menu(GUI)
